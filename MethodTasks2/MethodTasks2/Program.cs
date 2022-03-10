@@ -21,9 +21,7 @@ namespace MethodTasks2
             #endregion
 
             #region Task 2
-            //Console.Write("Arraya ölçü verin: ");
-            //int arrSize = Convert.ToInt32(Console.ReadLine());
-            //int[] arr = new int[arrSize];
+            //int[] arr = { -6, -3, -1, -9, -8, 5, 6, 3 };
             //ConvertPositive(ref arr);
             //foreach (var el in arr)
             //{
@@ -38,22 +36,18 @@ namespace MethodTasks2
             int maxIndex = 0;
             for (int i = 0; i < arr.Length; i++)
             {
-                if(arr[minIndex] > arr[i])
+                if (arr[minIndex] > arr[i])
                     minIndex = i;
-                if(arr[maxIndex] < arr[i])
+                if (arr[maxIndex] < arr[i])
                     maxIndex = i;
             }
             arr[minIndex] = arr[maxIndex] + arr[minIndex];
             arr[maxIndex] = arr[minIndex] - arr[maxIndex];
             arr[minIndex] = arr[minIndex] - arr[maxIndex];
         }
-
         static void ConvertPositive(ref int[] arr)
         {
-            for (int i = 0; i < arr.Length; i++)
-            {
-                arr[i] = Convert.ToInt32(Console.ReadLine());
-            }
+            //arr = new int[8] { -6, -2, -1, -10, -7, 5, 6, 3 };
             for (int i = 0; i < arr.Length; i++)
             {
                 if (arr[i] < 0)
