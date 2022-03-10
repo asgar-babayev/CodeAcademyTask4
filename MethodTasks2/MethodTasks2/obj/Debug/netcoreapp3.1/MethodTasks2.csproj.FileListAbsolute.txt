@@ -12,3 +12,17 @@ C:\Users\asger\Desktop\Tasks\MethodTasks2\MethodTasks2\obj\Debug\netcoreapp3.1\M
 C:\Users\asger\Desktop\Tasks\MethodTasks2\MethodTasks2\obj\Debug\netcoreapp3.1\MethodTasks2.dll
 C:\Users\asger\Desktop\Tasks\MethodTasks2\MethodTasks2\obj\Debug\netcoreapp3.1\MethodTasks2.pdb
 C:\Users\asger\Desktop\Tasks\MethodTasks2\MethodTasks2\obj\Debug\netcoreapp3.1\MethodTasks2.genruntimeconfig.cache
+C:\Users\tu7609td3\Desktop\CodeAcademyTask4\MethodTasks2\MethodTasks2\bin\Debug\netcoreapp3.1\MethodTasks2.exe
+C:\Users\tu7609td3\Desktop\CodeAcademyTask4\MethodTasks2\MethodTasks2\bin\Debug\netcoreapp3.1\MethodTasks2.deps.json
+C:\Users\tu7609td3\Desktop\CodeAcademyTask4\MethodTasks2\MethodTasks2\bin\Debug\netcoreapp3.1\MethodTasks2.runtimeconfig.json
+C:\Users\tu7609td3\Desktop\CodeAcademyTask4\MethodTasks2\MethodTasks2\bin\Debug\netcoreapp3.1\MethodTasks2.runtimeconfig.dev.json
+C:\Users\tu7609td3\Desktop\CodeAcademyTask4\MethodTasks2\MethodTasks2\bin\Debug\netcoreapp3.1\MethodTasks2.dll
+C:\Users\tu7609td3\Desktop\CodeAcademyTask4\MethodTasks2\MethodTasks2\bin\Debug\netcoreapp3.1\MethodTasks2.pdb
+C:\Users\tu7609td3\Desktop\CodeAcademyTask4\MethodTasks2\MethodTasks2\obj\Debug\netcoreapp3.1\MethodTasks2.csproj.AssemblyReference.cache
+C:\Users\tu7609td3\Desktop\CodeAcademyTask4\MethodTasks2\MethodTasks2\obj\Debug\netcoreapp3.1\MethodTasks2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tu7609td3\Desktop\CodeAcademyTask4\MethodTasks2\MethodTasks2\obj\Debug\netcoreapp3.1\MethodTasks2.AssemblyInfoInputs.cache
+C:\Users\tu7609td3\Desktop\CodeAcademyTask4\MethodTasks2\MethodTasks2\obj\Debug\netcoreapp3.1\MethodTasks2.AssemblyInfo.cs
+C:\Users\tu7609td3\Desktop\CodeAcademyTask4\MethodTasks2\MethodTasks2\obj\Debug\netcoreapp3.1\MethodTasks2.csproj.CoreCompileInputs.cache
+C:\Users\tu7609td3\Desktop\CodeAcademyTask4\MethodTasks2\MethodTasks2\obj\Debug\netcoreapp3.1\MethodTasks2.dll
+C:\Users\tu7609td3\Desktop\CodeAcademyTask4\MethodTasks2\MethodTasks2\obj\Debug\netcoreapp3.1\MethodTasks2.pdb
+C:\Users\tu7609td3\Desktop\CodeAcademyTask4\MethodTasks2\MethodTasks2\obj\Debug\netcoreapp3.1\MethodTasks2.genruntimeconfig.cache

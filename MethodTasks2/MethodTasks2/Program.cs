@@ -7,14 +7,14 @@ namespace MethodTasks2
         static void Main(string[] args)
         {
             #region Task 1
-            //int[] arr = { 12, 24, 2, 11, 5 };
-            //foreach (var el in arr)
+            //int[] arr = { 12, 24, 1, 11, 5 };
+            //foreach (int el in arr)
             //{
             //    Console.Write($"{el} ");
             //}
             //Console.WriteLine();
             //Swap(arr);
-            //foreach (var el in arr)
+            //foreach (int el in arr)
             //{
             //    Console.Write($"{el} ");
             //}
@@ -23,7 +23,7 @@ namespace MethodTasks2
             #region Task 2
             //int[] arr = { -6, -3, -1, -9, -8, 5, 6, 3 };
             //ConvertPositive(ref arr);
-            //foreach (var el in arr)
+            //foreach (int el in arr)
             //{
             //    Console.Write($"{el} ");
             //}
